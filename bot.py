@@ -19,7 +19,7 @@ wikipedia.set_lang('uz')
 
 # Configure logging
 
-logging.basicConfig(level=logging.INFO)
+logging.basicConfig(level=logging.DEBUG)
 
 
 # Initialize bot and dispatcher
